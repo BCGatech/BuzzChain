@@ -1,8 +1,8 @@
-#BuzzChain
+# BuzzChain
 Blockchain club custom blockchain
 
-##Install
+## Install
 `npm install`
 
-##Built With
+## Built With
 https://github.com/lhartikk/naivechain
